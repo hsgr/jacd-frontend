@@ -1,0 +1,13 @@
+/* JACD Css file */
+
+.hero-unit {
+	background-image: url('../img/back-jupiter.jpg');
+	background-color: black;
+	background-repeat: no-repeat;
+	background-position:right bottom;
+	color: #ccc;
+}
+
+.inner-container {
+
+}
