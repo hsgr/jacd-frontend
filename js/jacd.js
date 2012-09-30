@@ -1,0 +1,1 @@
+$('#image-credit').popover()
